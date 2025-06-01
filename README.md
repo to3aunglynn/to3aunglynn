@@ -1,6 +1,6 @@
 
 ##
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&pause=1000&color=f8f8f8&center=true&vCenter=true&width=435&lines=Hi!+I+am+Toe+Aung+Linn.;A+Junior+Developer;Tech+Enthusiast" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I+am+Toe+Aung+Linn.;A+Junior+Developer;Tech+Enthusiast" alt="Typing SVG" /></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="200" height="200" />
 </div>
