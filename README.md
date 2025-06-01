@@ -35,15 +35,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=to3aunglynn&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=to3aunglynn&bg_color=ffffff00&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true" width="95%" />
 </div>
-<h1>Contact Me</h1>
-
-<div align="center">
-  
-  <a href="mailto:toeaunglynn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/to3aunglynn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
